@@ -1,0 +1,249 @@
+@model DogCart_MVC.Models.InventoryModel
+
+@{
+    var InventoryButton = Session["InventoryButton"] != null ? Session["InventoryButton"].ToString() : "";
+   
+}
+
+
+
+
+@using (Html.BeginForm("AddInventory", "Inventory", FormMethod.Post, new { @name = "addInventory", @id = "addInventory", @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="col-md-12">
+        @Html.HiddenFor(m => Model.SKU, new { @id = "SKU" })
+
+        <div class="form-group">
+            <div class="col-md-3">
+             <label for="txtSKU">SKU </label>
+            </div>
+            <div class="col-md-9">
+                @Html.DropDownListFor(m => m.ID, new SelectList(Model.ddlSKU, "id", "desc"), new { @class = "form-control chosen", @id = "ddlSKU1", @tabindex = "1" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtZohoItem_ID">Zoho_ItemID </label>
+            </div>
+            <div class="col-md-9">
+                @Html.LabelFor(m => m.Zoho_ItemID, new { @id = "txtZohoItem_ID", @tabindex = "2", @placeholder = "Zoho_ItemID", @autocomplete = "off" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtProductName">Product Name </label>
+            </div>
+            <div class="col-md-9">
+                @Html.LabelFor(m => m.Name, new { @id = "txtProductName", @tabindex = "2", @placeholder = "Product Name", @autocomplete = "off" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtAttribute">Attribute </label>
+            </div>
+            <div class="col-md-9">
+                @Html.LabelFor(m => m.Color, new { @id = "txtAttribute", @tabindex = "3", @placeholder = "Attribute", @autocomplete = "off" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtOption">Option </label>
+            </div>
+            <div class="col-md-9">
+                @Html.LabelFor(m => m.Type, new { @id = "txtOption", @tabindex = "4", @placeholder = "Option", @autocomplete = "off", @IsPost = "false" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtQuantity">Quantity </label>
+            </div>
+            <div class="col-md-9">
+                @Html.TextBoxFor(m => m.Total_Quantity, new { @tabindex = "5", @placeholder = "Quantity", @autocomplete = "off", @class = "form-control remvread" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtExpiryDate">Import Date</label>@*<p><input type="text" id="datepicker"></p>*@
+            </div>
+            <div class="col-md-9">
+                @Html.TextBoxFor(model => model.ImportDate, new { @id = "ImportDate", @class = "form-control", placeholder = "Enter Import date" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtExpiryDate">Expiry Date</label>@*<p><input type="text" id="datepicker"></p>*@
+            </div>
+            <div class="col-md-9">
+                @Html.TextBoxFor(model => model.Expiry_Date, new { @id = "expiryDate", @class = "form-control", placeholder = "Enter date" })
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <div class="col-md-3"> <label for="txtSKU">Warehouse </label></div>
+            <div class="col-md-9">
+                @Html.DropDownListFor(m => m.LocationID, new SelectList(Model.ddlWarehouse, "id", "desc"), new { @class = "form-control", @id = "ddlWarehouses" })
+                 @*@Html.ValidationMessageFor(model => model.ddlWarehouse, "", new { @class = "text-danger" })*@
+                @Html.ValidationMessage("warehouse is required.")
+
+
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtZohoItem_ID">Zoho_BranchID </label>
+            </div>
+            <div class="col-md-9">
+                @Html.LabelFor(m => m.Zoho_BranchID, new { @id = "txtZohoBranch_ID", @tabindex = "2", @placeholder = "Zoho_BranchID", @autocomplete = "off" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-3">
+                <label for="txtZohoItem_ID">Zoho_WarehouseID </label>
+            </div>
+            <div class="col-md-9">
+                @Html.LabelFor(m => m.Zoho_WarehouseID, new { @id = "txtZohoWarehouse_ID", @tabindex = "2", @placeholder = "Zoho_WarehouseID", @autocomplete = "off" })
+            </div>
+        </div>
+
+        
+           <div class="form-group">
+                    <div class="col-md-3">
+                        <label for="txtQuantity">Vendor_InvoiceNo </label>
+                    </div>
+                    <div class="col-md-9">
+                        @Html.TextBoxFor(m => m.Vendor_InvoiceNo, new { @tabindex = "5", @placeholder = "Invoice Number", @autocomplete = "off", @class = "form-control remvread" })
+                    </div>
+                </div>
+
+        <div class="form-group col-md-12 text-center mrg-t-50">
+            <button type="submit" id="create_Cheacklist_form_submit_btn" tabindex="13" class="btn btn-primary">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@InventoryButton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+        </div>
+    </div>
+    //validation Start
+    <script type="text/javascript">
+        $('.chosen').chosen();
+        $(document).ready(function () {
+            $.validator.addMethod("regex", function (value, element, regexpr) { return regexpr.test(value); }, "Please enter a valid time.");
+            $.validator.setDefaults({ ignore: ":hidden:not(select)" });
+            var form = $("[name=addInventory]");
+            $("form[name='addInventory']").validate(
+            {
+                ignore: "",
+                rules:
+                {
+                    ddlSKU:
+                     {
+                         required: true
+                     },
+                    Total_Quantity:
+                    {
+                        required: true
+                    },
+                    ImportDate:
+                    {
+                         required:true
+                    },
+                    Expiry_Date:
+                    {
+                        required: true
+                    },
+                    ddlWarehouse:
+                    {
+                        required:true
+                    }
+                    
+                },
+                messages:
+                {
+                    id:
+                     {
+                         required: "Please select SKU ID."
+                     },
+                    Total_Quantity:
+                    {
+                        required: "Please Enter Quantity."
+                    },
+                    ImportDate:
+                  {
+                      required: "Please Enter Import Date."
+                  },
+                    Expiry_Date:
+                    {
+                        required: "Please Enter Expiry Date."
+                    },
+                    ddlWarehouse:
+                        {
+                            required:"Please Select."
+                        },
+
+                    messages:
+                     {
+                         required: "Please select messages."
+                     }
+                }
+
+            });
+        });
+    </script>
+    //validation End
+    <script type="text/javascript">
+        $(function () { // will trigger when the document is ready
+            $('#expiryDate').datepicker(); //Initialise any date pickers
+        });
+        $(function () { // will trigger when the document is ready
+            $('#ImportDate').datepicker(); //Initialise any date pickers
+        });
+    </script>
+
+
+    <script type="text/javascript">
+        $(document).on('change', '#ddlSKU1', function () {
+            var SKU = $('#ddlSKU1').find("option:selected").val().trim();
+            if (SKU != "undefined" && SKU != null && SKU != "") {
+                $.ajax(
+                {
+                    type: "POST",
+                    url: '@Url.Action("AttributeDetailFromSKU", "Inventory")?SKU="' + SKU,
+                    dataType: "json",
+                    contentType: 'application/json',
+                    success: function (data) {
+                        //alert("44");
+                        console.log(data);
+                        console.log(data['model']['Name']);
+                        $('#txtZohoItem_ID').html(data['model']['Zoho_ItemID']);
+                        $('#txtProductName').html(data['model']['Name']);
+                        $('#txtAttribute').html(data['model']['Color']);
+                        $('#txtOption').html(data['model']['Size']);
+                    }
+                });
+            }
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(document).on('change', '#ddlWarehouses', function () {
+            debugger;
+            var Warehouse = $('#ddlWarehouses').find("option:selected").val().trim();
+            if (Warehouse != "undefined" && Warehouse != null && Warehouse != "") {
+                $.ajax(
+                {
+                    type: "POST",
+                    url: '@Url.Action("WarehouseDeatilsFromLocation", "Inventory")?Warehouse="' + Warehouse,
+                    dataType: "json",
+                    contentType: 'application/json',
+                    success: function (data) {
+                        //alert("44");
+                        console.log(data);
+                        console.log(data['model']['Name']);
+                        $('#txtZohoBranch_ID').html(data['model']['Zoho_BranchID']);
+                        $('#txtZohoWarehouse_ID').html(data['model']['Zoho_WarehouseID']);
+                    }
+                });
+            }
+        });
+    </script>
+}
+

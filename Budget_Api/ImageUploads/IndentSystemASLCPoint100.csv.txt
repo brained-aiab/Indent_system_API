@@ -1,0 +1,33 @@
+-------------------------------------------------Snehal -------------------------------------------------
+2. Application is vulnerable to session hijacking attack 
+Solution- Not Clear
+8. Application accepts special characters as user inputs - Snehal 
+Solution - Allow only text Format
+4. Application allows simultaneous logins from single user ID  - Amit & Snehal 
+Solution - Token based
+
+17. Security Misconfiguration - Snehal 
+Solution - Token Based
+-------------------------------------------------Chintan -------------------------------------------------
+13. Session time-out is high (or) not implemented -  Amit & Snehal 
+Solution - Automatically Log out if user is Inactive for more than 15 
+1.Session does not expire on closing the browser - Amit & Snehal 
+Solution- Log Out API(Token Based)
+12. Vulnerabilities in known components - Amit 
+Solution - 
+
+
+====================================Done Point ====================================
+5. Application does not notify user of last login time and date - Chintan 
+9. Auto-complete is enabled for sensitive fields -Chintan
+
+6.Sensitive data is accessible from cache -Snehal
+10. Application is vulnerable to Click Jacking - Snehal
+18. Cross Origin Resource Sharing Vulnerability- Snehal 
+16.Banner Grabbing - Snehal 
+15.HTTP Host Header Injection - Snehal 
+3.Internal pages accessible without login  - Snehal 
+14.File upload functionality flaw - Snehal
+7.Credentials are transmitted to server in plain text -  Snehal 
+11. Server Side input validations are not in place - Snehal
+

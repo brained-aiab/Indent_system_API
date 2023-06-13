@@ -1,0 +1,24 @@
+1. missing cache control directives
+sol - cache-control: no-cache, 
+2. access-control-allow-origin header in server response is not set securely
+3.Server Side input validations are not in place
+4. an adversary can fingerprint the web server from the http responses
+sol- Remove .net mvc version
+5.credentials are transmitted to server in plain text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.http host header injection
+2.Dos using sql wildcards
+3.Sensitive information exposure

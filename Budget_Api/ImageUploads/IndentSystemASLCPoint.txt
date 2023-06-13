@@ -1,0 +1,45 @@
+
+2. Application is vulnerable to session hijacking attack 
+Solution- Not Clear
+15.HTTP Host Header Injection - Amit 
+Solution- Domain should be same--Host header injection can be mitigated by rejecting any request that does not match the target domain. - WebCofig
+12. Vulnerabilities in known components - Amit 
+Solution - 
+
+===================================== Pending ====================================
+
+4. Application allows simultaneous logins from single user ID  - Amit & Snehal 
+Solution - Token based( Disable simultaneous logins. Every time a simultaneous login is attempted record the request at application logs for security incident response purposes.)
+3.Internal pages accessible without login  - Snehal 
+Solution - 
+9. Auto-complete is enabled for sensitive fields -Amit 
+Solution- set autocomplete attribute to off for all sensitive fields explicitly.(Save Username and Password on web browser)
+
+14.File upload functionality flaw -when insert Budget we can upload only selective file extesion- Done
+solution -(API Side validation - when insert or update budget)
+1.Session does not expire on closing the browser - Amit & Snehal 
+Solution- Log Out API(Token Based)
+17. Security Misconfiguration - Snehal 
+Solution - Token Based
+
+===================================== Completed====================================
+16.Banner Grabbing - Snehal  (Hide asp.net mvc version)
+Solution -  The application leaks server information in its HTTP response header.The server version information (.net framework Version)- Done
+18. Cross Origin Resource Sharing Vulnerability- Snehal 
+Solution - Access-Control-Allow-Methods- *
+6.Sensitive data is accessible from cache - Snehal
+Solution -  Remove Cache from server (Cache-Control-no-cache, no-store) 
+8. Application accepts special characters as user inputs - Snehal 
+Solution - Allow only text Format ( API Encryption decryption)
+7.Credentials are transmitted to server in plain text - Amit & Snehal 
+Solution - Encrypt all API 
+11. Server Side input validations are not in place - Snehal &  Amit 
+Solution - Encrypt all API 
+5. Application does not notify user of last login time and date - Snehal 
+Solution- Return Lastlogin 
+13. Session time-out is high (or) not implemented -  Amit & Snehal 
+Solution - Automatically Log out if user is Inactive for more than 15 - Token Based
+10. Application is vulnerable to Click Jacking - Snehal
+Solution - Should not open in IFrame- WebConfig
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+
+
+1.Session does not expire on closing the browser - Amit & Snehal 
+Solution- Log Out API(Token Based)
+2. Application is vulnerable to session hijacking attack 
+Solution- Not Clear
+3.Internal pages accessible without login  - Snehal 
+Solution - Hold
+4. Application allows simultaneous logins from single user ID  - Amit & Snehal 
+Solution - Token based
+5. Application does not notify user of last login time and date - Snehal 
+Solution- Return Lastlogin 
+6.Sensitive data is accessible from cache - Amit 
+Solution -  Remove Cache from server
+7.Credentials are transmitted to server in plain text - Amit & Snehal 
+Solution - Encrypt all API 
+8. Application accepts special characters as user inputs - Snehal 
+Solution - Allow only text Format
+9. Auto-complete is enabled for sensitive fields -Amit 
+Solution- set autocomplete attribute to off for all sensitive fields explicitly.
+10. Application is vulnerable to Click Jacking - Amit 
+Solution - Should not open in IFrame
+11. Server Side input validations are not in place - Snehal &  Amit 
+Solution - Encrypt all API 
+12. Vulnerabilities in known components - Amit 
+Solution - 
+13. Session time-out is high (or) not implemented -  Amit & Snehal 
+Solution - Automatically Log out if user is Inactive for more than 15 
+14.File upload functionality flaw - Not Clear
+15.HTTP Host Header Injection - Amit 
+Solution- Domain should be same
+16.Banner Grabbing - Snehal 
+Solution -  Ask Rakshanda
+17. Security Misconfiguration - Snehal 
+Solution - Token Based
+18. Cross Origin Resource Sharing Vulnerability- Snehal 
+Solution - Ask rakshanda
+
+
+
+
+: the user should be asked to re-authenticate to obtain access to his data if the session is inactive for more than 15 minutes session time-out must be implemented both at client side and server side

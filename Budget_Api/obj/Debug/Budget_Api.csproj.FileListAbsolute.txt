@@ -1,0 +1,1016 @@
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\ApplicationInsights.config
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\csc.exe
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\vbc.exe
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Budget_Api.dll.config
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Budget_Api.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Budget_Api.pdb
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\BAL.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Entity.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.Web.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Newtonsoft.Json.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Helpers.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Mvc.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Razor.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.Razor.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\DAL.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\BAL.pdb
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Entity.pdb
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.Web.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Razor.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.Razor.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Helpers.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Mvc.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Newtonsoft.Json.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\DAL.pdb
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\obj\Debug\Budget_Api.dll
+C:\Users\Visitor\Desktop\budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\obj\Debug\Budget_Api.pdb
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\ApplicationInsights.config
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\csc.exe
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\vbc.exe
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Budget_Api.dll.config
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Budget_Api.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Budget_Api.pdb
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\BAL.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Entity.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.Web.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.Security.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Newtonsoft.Json.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Owin.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Net.Http.Formatting.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Helpers.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.Owin.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.WebHost.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Mvc.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Razor.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.Deployment.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.Razor.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\DAL.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\BAL.pdb
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Entity.pdb
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.Web.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.Security.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\Newtonsoft.Json.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Net.Http.Formatting.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.Owin.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Razor.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.Deployment.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Webpages.Razor.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Helpers.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Mvc.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\System.Web.Http.WebHost.xml
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\bin\DAL.pdb
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\obj\Debug\Budget_Api.dll
+E:\Rakshanda\Icici_Budget_Api\Icici_Budget_Api\Budget_Api\Budget_Api\obj\Debug\Budget_Api.pdb
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Budget_Api.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\BAL.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Entity.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Owin.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Webpages.Deployment.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Webpages.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Webpages.Razor.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\DAL.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\BAL.pdb
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Entity.pdb
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Webpages.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Webpages.Deployment.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Webpages.Razor.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\bin\DAL.pdb
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+E:\chintan\icici\Budgeting\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Budget_Api.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\BAL.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Entity.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Owin.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Webpages.Deployment.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Webpages.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Webpages.Razor.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\DAL.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\BAL.pdb
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Entity.pdb
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Webpages.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Webpages.Deployment.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Webpages.Razor.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\bin\DAL.pdb
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+O:\BUDGETING_UAT_&_LIVE_PATCH\BudgetApi\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Budget_Api.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\BAL.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Entity.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Owin.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Cors.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Webpages.Deployment.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Webpages.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Webpages.Razor.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\DAL.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\BAL.pdb
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Entity.pdb
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Webpages.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Webpages.Deployment.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Webpages.Razor.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+D:\Budgeting Project\budgeting-api\Budget_Api\bin\DAL.pdb
+D:\Budgeting Project\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+D:\Budgeting Project\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+D:\Budgeting Project\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Budget_Api.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\BAL.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Entity.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Owin.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Cors.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Webpages.Deployment.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Webpages.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Webpages.Razor.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\DAL.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\BAL.pdb
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Entity.pdb
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Webpages.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Webpages.Deployment.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Webpages.Razor.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\bin\DAL.pdb
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+D:\Budgeting Project\backup_12082021\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Owin.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Cors.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Owin.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Cors.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.pdb
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.pdb
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.pdb
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.pdb
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.pdb
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.xml
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.pdb
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+D:\Budgeting Project\Budgeting\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Owin.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Cors.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.pdb
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.pdb
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.pdb
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.pdb
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.pdb
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.xml
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.pdb
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+D:\Budgeting Project\New folder\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Owin.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Cors.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.pdb
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.xml
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ApplicationInsights.config
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\csc.exe
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Collections.Immutable.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\vbc.exe
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\roslyn\VBCSCompiler.exe.config
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll.config
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Budget_Api.pdb
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Web.Infrastructure.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Owin.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Cors.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\BAL.pdb
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DAL.pdb
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Entity.pdb
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.pdb
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ClosedXML.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\CsvHelper.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\DocumentFormat.OpenXml.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.pdb
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.pdb
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelDataReader.DataSet.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\ExcelNumberFormat.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.Web.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.AI.WindowsServer.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.ApplicationInsights.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Logging.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.IdentityModel.Tokens.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.Jwt.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\Newtonsoft.Json.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Buffers.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Memory.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Net.Http.Formatting.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.ValueTuple.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Helpers.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Cors.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.Owin.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Http.WebHost.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Mvc.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.Razor.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Deployment.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\bin\System.Web.WebPages.Razor.xml
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.csprojResolveAssemblyReference.cache
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.dll
+D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\budgeting-api\Budget_Api\obj\Debug\Budget_Api.pdb
