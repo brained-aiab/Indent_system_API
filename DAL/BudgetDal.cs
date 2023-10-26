@@ -44,11 +44,10 @@ namespace DAL
         string keytest = "d7a50e0f2f9546d35ce700eebfb0c911";
         // string ivkeytest = GenerateRandomIV(16);
         string ivkeytest = "lw-hv-ThGioHnTAi";
-        string connection = ConfigurationManager.ConnectionStrings["DBConnectionString"].ConnectionString;
 
-        //string connStr = ConfigurationManager.ConnectionStrings["DBConnectionString"].ConnectionString;
+        string connStr = ConfigurationManager.ConnectionStrings["DBConnectionString"].ConnectionString;
 
-        //string connection = "";
+        string connection = "";
 
         /**
 
@@ -129,7 +128,7 @@ namespace DAL
 
             _ivBytes = new byte[16];
 
-           // connection = decrypt(connStr, keytest, ivkeytest);
+            connection = connStr;// connStr decrypt(connStr, keytest, ivkeytest);
         }
 
         /**

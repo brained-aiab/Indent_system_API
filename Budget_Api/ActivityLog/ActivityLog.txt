@@ -2745,3 +2745,76 @@ File name: 'D:\Budgeting Project\budgeting-api-Solution\budgeting-api-Solution\b
 
 01-06-2023 11:02:53stauscodeRecord Found
 
+15-09-2023 18:13:57stauscode100
+
+15-09-2023 18:14:00stauscodeRecord Found
+
+15-09-2023 18:15:04stauscode100
+
+15-09-2023 18:15:04stauscodeRecord Found
+
+15-09-2023 18:15:07stauscode100
+
+15-09-2023 18:15:07stauscodeRecord Found
+
+15-09-2023 18:15:09stauscode100
+
+15-09-2023 18:15:09stauscodeRecord Found
+
+26-09-2023 12:19:36System.IndexOutOfRangeException: Cannot find table 1.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Budget_Api.Controllers.ICICI_BUDGETController.Login(JObject objData) in D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\Controllers\ICICI_BUDGETController.cs:line 90
+
+26-09-2023 12:23:11System.IndexOutOfRangeException: Cannot find table 1.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Budget_Api.Controllers.ICICI_BUDGETController.Login(JObject objData) in D:\ICICI_Budgeting Project\budgeting-api-Solution\budgeting-api\Budget_Api\Controllers\ICICI_BUDGETController.cs:line 90
+
+13-10-2023 10:37:20System.ArgumentNullException: Argument cannot be Nothing.
+Parameter name: path
+   at Microsoft.VisualBasic.FileIO.TextFieldParser.InitializeFromPath(String path, Encoding defaultEncoding, Boolean detectEncoding)
+   at Microsoft.VisualBasic.FileIO.TextFieldParser..ctor(String path)
+   at Budget_Api.Controllers.ICICI_BUDGETController.ImportBudget() in D:\ICICI_Budgeting Project\budgeting-api_old\Budget_Api\Controllers\ICICI_BUDGETController.cs:line 6133
+
+13-10-2023 10:43:40System.ArgumentNullException: Argument cannot be Nothing.
+Parameter name: path
+   at Microsoft.VisualBasic.FileIO.TextFieldParser.InitializeFromPath(String path, Encoding defaultEncoding, Boolean detectEncoding)
+   at Microsoft.VisualBasic.FileIO.TextFieldParser..ctor(String path)
+   at Budget_Api.Controllers.ICICI_BUDGETController.ImportBudget() in D:\ICICI_Budgeting Project\budgeting-api_old\Budget_Api\Controllers\ICICI_BUDGETController.cs:line 6133
+
+25-10-2023 15:24:00System.ArgumentException: Input array is longer than the number of columns in this table.
+   at System.Data.DataTable.NewRecordFromArray(Object[] value)
+   at System.Data.DataRowCollection.Add(Object[] values)
+   at Budget_Api.Controllers.ICICI_BUDGETController.ImportBudget() in D:\ICICI_Budgeting Project\budgeting-api\Budget_Api\Controllers\ICICI_BUDGETController.cs:line 6155
+
+25-10-2023 16:25:02System.Data.SqlClient.SqlException (0x80131904): A cursor with the name 'TRAINERAASCur1' does not exist.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.BudgetDal.ImportBudget(DataTable csvFileData, BudgetEntity obj) in D:\ICICI_Budgeting Project\budgeting-api\DAL\BudgetDal.cs:line 1850
+   at BAL.BudgetBal.ImportBudget(DataTable csvFileData, BudgetEntity objEntity) in D:\ICICI_Budgeting Project\budgeting-api\BAL\BudgetBal.cs:line 310
+   at Budget_Api.Controllers.ICICI_BUDGETController.ImportBudget() in D:\ICICI_Budgeting Project\budgeting-api\Budget_Api\Controllers\ICICI_BUDGETController.cs:line 6157
+ClientConnectionId:471fba87-6208-42f8-8974-4c471b261d11
+Error Number:16916,State:1,Class:16
+
+25-10-2023 16:27:43System.Data.SqlClient.SqlException (0x80131904): A cursor with the name 'TRAINERAASCur1' does not exist.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.BudgetDal.ImportBudget(DataTable csvFileData, BudgetEntity obj) in D:\ICICI_Budgeting Project\budgeting-api\DAL\BudgetDal.cs:line 1850
+   at BAL.BudgetBal.ImportBudget(DataTable csvFileData, BudgetEntity objEntity) in D:\ICICI_Budgeting Project\budgeting-api\BAL\BudgetBal.cs:line 310
+   at Budget_Api.Controllers.ICICI_BUDGETController.ImportBudget() in D:\ICICI_Budgeting Project\budgeting-api\Budget_Api\Controllers\ICICI_BUDGETController.cs:line 6157
+ClientConnectionId:471fba87-6208-42f8-8974-4c471b261d11
+Error Number:16916,State:1,Class:16
+

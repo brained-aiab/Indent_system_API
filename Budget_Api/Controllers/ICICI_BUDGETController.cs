@@ -65,9 +65,10 @@ namespace Budget_Api.Controllers
                 var jss = new JavaScriptSerializer();
                 var table = jss.Deserialize<dynamic>(json);
                 objEntity.UserId = table["UserId"];
+                UtilityClass.ActivityLog(DateTime.Now.ToString()+"UserId :" + objEntity.UserId );
+
                 objEntity.Tokens = token;
-
-
+            
                 DataSet resultDS = new DataSet();
                 DataSet resultDS1 = new DataSet();
                 Dictionary<string, object> row = new Dictionary<string, object>();
@@ -75,18 +76,25 @@ namespace Budget_Api.Controllers
                 resultDS = objBAL.UserLogin("PROC_API_USERLOGIN", objEntity); //External User
                 if ((resultDS != null) && (resultDS.Tables.Count > 0))
                 {
-                    token = GetToken(resultDS.Tables[0].Rows[0]["User_Code"].ToString(), resultDS.Tables[0].Rows[0]["role"].ToString(), resultDS.Tables[0].Rows[0]["CurrentFY"].ToString(), resultDS.Tables[0].Rows[0]["LastloginDate"].ToString());
+                    token = GetToken(resultDS.Tables[0].Rows[0]["User_Code"].ToString(),
+                        resultDS.Tables[0].Rows[0]["role"].ToString(), resultDS.Tables[0].Rows[0]["CurrentFY"].ToString(), 
+                        resultDS.Tables[0].Rows[0]["LastloginDate"].ToString());
                 }
                 else
                 {
                     row.Add("Login", "User access role not found");
                 }
                 objEntity.Tokens = token;
+                UtilityClass.ActivityLog("token :" + objEntity.Tokens);
+
                 resultDS1 = objBAL.UserLogin("Token", objEntity);
                 objEntity.stauscode = Convert.ToInt32(resultDS.Tables[0].Rows[0]["Code"]);
                 objEntity.message = resultDS.Tables[0].Rows[0]["message"].ToString();
                 var Token1 = resultDS1.Tables[1].Rows[0]["Token"].ToString();
+                UtilityClass.ActivityLog(DateTime.Now.ToString() + "Token1 :" + Token1);
+
                 string token2 = Token1.ToString();
+                UtilityClass.ActivityLog(DateTime.Now.ToString()+ "token2 :" + token2);
                 var response = new
                 {
                     statuscode = objEntity.stauscode,
@@ -1763,7 +1771,7 @@ namespace Budget_Api.Controllers
         }
 
         [HttpPost]
-        [Route("Api/GetRAIdR")]
+        [Route("Api/GetRAId")]
         [Authorize]
         [AllowAnonymous]
         public IHttpActionResult GetRAId(JObject objData)
@@ -6162,7 +6170,7 @@ namespace Budget_Api.Controllers
             {
                 data = AESEncrytDecry.Encryptstring(jsonString)
             };
-            return Ok(response1);
+            return Ok(jsonString);
 
         }
 
